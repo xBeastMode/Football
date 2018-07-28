@@ -1,0 +1,15 @@
+name: Football
+main: xBeastMode\Football\Loader
+version: 0.0.1
+api: 3.1.0
+load: POSTWORLD
+author: xBeastMode
+description: a concept of a football plugin for pocketmine
+
+commands:
+ killballs:
+  description: "Kill All Balls"
+  usage: "Usage: /killballs"
+ addball:
+  description: "Spawn a soccer ball"
+  usage: "Usage: /addball [size]"
